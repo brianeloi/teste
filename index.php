@@ -1,3 +1,3 @@
 <?php
-	echo 'Desordia!';
+	echo 'Desordia! G12!';
 ?>
